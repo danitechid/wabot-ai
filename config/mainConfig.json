@@ -1,0 +1,13 @@
+{
+  "session_folder_name": ".session",
+  "prefix": ".",
+  "public_mode": true,
+  "react": {
+    "process": "⏳",
+    "success": "✅"
+  },
+  "api": {
+    "url": "https://api.danitechno.com",
+    "key": "your-secret-key"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys" : "^6.5.0",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@hapi/boom": "^10.0.1",
+    "pino": "^8.15.5",
+    "qrcode-terminal": "^0.12.0",
+    "chalk": "^4.1.2",
+    "nodemon": "^3.0.1"
+  },
+  "author": "Dani Ramdani",
+  "license": "ISC"
+}
