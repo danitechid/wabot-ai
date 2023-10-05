@@ -1,8 +1,8 @@
 # WhatsApp BOT - Kecerdasan Buatan
 ## Fitur
-`1. ChatGPT-3.5-Turbo`,
-`2. Google Bard`,
-`3. SimSimi`,
+`1. ChatGPT-3.5-Turbo`<br>
+`2. Google Bard`<br>
+`3. SimSimi`<br>
 `4. ChattyAI`
 
 ## Instalasi
