@@ -6,12 +6,21 @@
 `4. ChattyAI`
 
 ## Instalasi
+### Clone repo
+```bash
+git clone https://github.com/danitechid/wabot-ai.git
+```
+
+### Arahkan path
+```
+cd /wabot-ai
+```
+
 ### Dapatkan Kunci API
 Daftar dan dapatkan kunci API: <a href="https://api.danitechno.com">https://api.danitechno.com</a>
 
 ### Edit ./config/mainConfig.json
 ```json
-....
 "api": {
     "url": "https://api.danitechno.com",
     "key": "kunci-rahasiamu"
