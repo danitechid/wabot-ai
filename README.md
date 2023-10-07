@@ -12,8 +12,8 @@ git clone https://github.com/danitechid/wabot-ai.git
 ```
 
 ### Arahkan path
-```
-cd /wabot-ai
+```bash
+cd wabot-ai
 ```
 
 ### Instal dependensi
