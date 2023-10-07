@@ -16,6 +16,16 @@ git clone https://github.com/danitechid/wabot-ai.git
 cd /wabot-ai
 ```
 
+### Instal dependensi
+#### Gunakan Npm
+```bash
+npm install
+```
+#### Gunakan Yarn
+```bash
+yarn install
+```
+
 ### Dapatkan Kunci API
 Daftar dan dapatkan kunci API: <a href="https://api.danitechno.com">https://api.danitechno.com</a>
 
@@ -25,21 +35,6 @@ Daftar dan dapatkan kunci API: <a href="https://api.danitechno.com">https://api.
     "url": "https://api.danitechno.com",
     "key": "kunci-rahasiamu"
   }
-```
-
-### Instal NodeJs
-```bash
-apt install nodejs
-```
-
-### Instal dependensi
-#### Gunakan Npm
-```bash
-npm install
-```
-#### Gunakan Yarn
-```bash
-yarn install
 ```
 
 ### Jalankan server
